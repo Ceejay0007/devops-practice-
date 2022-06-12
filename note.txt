@@ -6,10 +6,4 @@ lestley my main main
 edition from local itself 
 to test git fetch command 
 making changes for brancch demo
-<<<<<<< HEAD
 working on branch again
-=======
-working on branch again
-cp commit one
-cp commit two
->>>>>>> 7d330f3 (commit2)
